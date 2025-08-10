@@ -91240,9 +91240,9 @@
     },
     "spaceinvaderone/auto_slack_pack:latest": {
         "Base": null,
-        "Downloads": 2539,
+        "Downloads": 2636,
         "Stars": null,
-        "Time": 1752174670,
+        "Time": 1754773670,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
@@ -92088,9 +92088,9 @@
     },
     "https://raw.githubusercontent.com/desertwitch/memtester-unRAID/main/plugin/dwmemtester.plg": {
         "Base": null,
-        "Downloads": 5623,
+        "Downloads": 5955,
         "Stars": null,
-        "Time": 1752131334,
+        "Time": 1754730395,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
@@ -92099,9 +92099,9 @@
     },
     "https://raw.githubusercontent.com/jinlife/unraid-r8125-r8152-driver/main/unraid-r8126.plg": {
         "Base": null,
-        "Downloads": 1112,
+        "Downloads": 1211,
         "Stars": null,
-        "Time": 1752153038,
+        "Time": 1754752110,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
@@ -95836,47 +95836,50 @@
     },
     "lscr.io/linuxserver/planka": {
         "Base": null,
-        "Downloads": 31509,
+        "Downloads": 33728,
         "Stars": 3,
-        "Time": 1752131354,
-        "trending": 4.96,
+        "Time": 1754730409,
+        "trending": 6.579,
         "trends": [
             39.764,
             9.888,
             5.203,
-            4.96
+            4.96,
+            6.579
         ],
         "downloadtrend": [
             15409,
             25581,
             28388,
             29946,
-            31509
+            31509,
+            33728
         ],
         "trendsDate": [
             1744333702,
             1746932921,
             1749532191,
-            1752131354
+            1752131354,
+            1754730409
         ],
         "LastUpdate": 1746821333
     },
     "lscr.io/linuxserver/yaak": {
         "Base": null,
-        "Downloads": 4908,
+        "Downloads": 5465,
         "Stars": null,
-        "Time": 1752145747,
+        "Time": 1754744815,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
         "trendsDate": null,
-        "LastUpdate": 1751950989
+        "LastUpdate": 1754157483
     },
     "https://raw.githubusercontent.com/dkaser/unraid-plugin-diagnostics/main/plugin/plugin-diagnostics.plg": {
         "Base": null,
-        "Downloads": 1205,
+        "Downloads": 1249,
         "Stars": null,
-        "Time": 1752188925,
+        "Time": 1754788035,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
@@ -97408,51 +97411,52 @@
     },
     "hardcoreeng/front:latest": {
         "Base": null,
-        "Downloads": 50371,
+        "Downloads": 55025,
         "Stars": null,
-        "Time": 1752196209,
-        "trending": 7.222,
+        "Time": 1754795338,
+        "trending": 8.458,
         "trends": [
-            19.56,
             18.088,
             16.014,
             12.749,
             4.484,
             4.744,
-            7.222
+            7.222,
+            8.458
         ],
         "downloadtrend": [
-            25522,
             31158,
             37099,
             42520,
             44516,
             46733,
-            50371
+            50371,
+            55025
         ],
         "trendsDate": [
-            1736601008,
             1739200296,
             1741799482,
             1744398690,
             1746997804,
             1749597040,
-            1752196209
+            1752196209,
+            1754795338
         ],
-        "LastUpdate": 1752160248
+        "LastUpdate": 1754539742
     },
     "domistyle/jellysearch:latest": {
         "Base": null,
-        "Downloads": 43632,
+        "Downloads": 49189,
         "Stars": 1,
-        "Time": 1752196209,
-        "trending": 13.071,
+        "Time": 1754795338,
+        "trending": 11.297,
         "trends": [
             27.568,
             22.899,
             20.677,
             19.123,
-            13.071
+            13.071,
+            11.297
         ],
         "downloadtrend": [
             13589,
@@ -97460,14 +97464,16 @@
             24333,
             30676,
             37929,
-            43632
+            43632,
+            49189
         ],
         "trendsDate": [
             1741799482,
             1744398690,
             1746997805,
             1749597040,
-            1752196209
+            1752196209,
+            1754795338
         ],
         "LastUpdate": 1744188184
     },
@@ -99055,9 +99061,9 @@
     },
     "ghcr.io/njic/medassist:latest": {
         "Base": null,
-        "Downloads": 119,
+        "Downloads": 158,
         "Stars": null,
-        "Time": 1752145826,
+        "Time": 1754744882,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
@@ -99068,7 +99074,7 @@
         "Base": null,
         "Downloads": null,
         "Stars": null,
-        "Time": 1752145827,
+        "Time": 1754744883,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
@@ -99993,9 +99999,9 @@
     },
     "spaceinvaderone/tailvault:latest": {
         "Base": null,
-        "Downloads": 510,
+        "Downloads": 546,
         "Stars": null,
-        "Time": 1752131412,
+        "Time": 1754730461,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
@@ -100004,9 +100010,9 @@
     },
     "https://raw.githubusercontent.com/alturismo/unraid-aspm-helper/master/aspm-helper.plg": {
         "Base": null,
-        "Downloads": 2250,
+        "Downloads": 2478,
         "Stars": null,
-        "Time": 1752145809,
+        "Time": 1754744865,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
@@ -103870,30 +103876,33 @@
     },
     "dumbwareio/dumbkan:latest": {
         "Base": null,
-        "Downloads": 20069,
+        "Downloads": 26096,
         "Stars": 1,
-        "Time": 1752138626,
-        "trending": 21.889,
+        "Time": 1754737671,
+        "trending": 23.095,
         "trends": [
             22.984,
-            21.889
+            21.889,
+            23.095
         ],
         "downloadtrend": [
             12073,
             15676,
-            20069
+            20069,
+            26096
         ],
         "trendsDate": [
             1749539454,
-            1752138626
+            1752138626,
+            1754737671
         ],
         "LastUpdate": 1750779635
     },
     "madeofpendletonwool/podpeople_db:latest": {
         "Base": null,
-        "Downloads": 117,
+        "Downloads": 121,
         "Stars": null,
-        "Time": 1752167507,
+        "Time": 1754766500,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
@@ -103902,9 +103911,9 @@
     },
     "fabriziosalmi/uglyfeed:latest": {
         "Base": null,
-        "Downloads": 1224,
+        "Downloads": 1479,
         "Stars": 1,
-        "Time": 1752167507,
+        "Time": 1754766500,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
@@ -110856,7 +110865,7 @@
         "Base": null,
         "Downloads": null,
         "Stars": null,
-        "Time": 1752189032,
+        "Time": 1754788110,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
@@ -112054,27 +112063,30 @@
     },
     "seafileltd/seafile-mc:12.0-latest": {
         "Base": null,
-        "Downloads": 17470477,
+        "Downloads": 17533460,
         "Stars": 118,
-        "Time": 1752124225,
-        "trending": 0.288,
+        "Time": 1754723387,
+        "trending": 0.359,
         "trends": [
             0.254,
             0.259,
-            0.288
+            0.288,
+            0.359
         ],
         "downloadtrend": [
             17330846,
             17374944,
             17420090,
-            17470477
+            17470477,
+            17533460
         ],
         "trendsDate": [
             1746925823,
             1749525049,
-            1752124225
+            1752124225,
+            1754723387
         ],
-        "LastUpdate": 1752085248
+        "LastUpdate": 1753856844
     },
     "https://raw.githubusercontent.com/VladoPortos/folder.view/main/folder.view.plg": {
         "Base": null,
@@ -113590,7 +113602,7 @@
         "Base": null,
         "Downloads": null,
         "Stars": null,
-        "Time": 1752124219,
+        "Time": 1754723378,
         "trending": null,
         "trends": null,
         "downloadtrend": null,
@@ -114560,14 +114572,21 @@
     },
     "dumbwareio/dumbassets:latest": {
         "Base": null,
-        "Downloads": 57229,
+        "Downloads": 111217,
         "Stars": 3,
-        "Time": 1752189031,
-        "trending": null,
-        "trends": null,
-        "downloadtrend": null,
-        "trendsDate": null,
-        "LastUpdate": 1749778685
+        "Time": 1754788111,
+        "trending": 48.543,
+        "trends": [
+            48.543
+        ],
+        "downloadtrend": [
+            57229,
+            111217
+        ],
+        "trendsDate": [
+            1754788111
+        ],
+        "LastUpdate": 1753032199
     },
     "fithwum/vintage-story:latest": {
         "Base": null,
