@@ -2774,7 +2774,7 @@ Processing /tmp/GitHub/repositoryClone/waazaa-fr/unraid-templates/my-cronicle-ed
 Processing /tmp/GitHub/repositoryClone/waazaa-fr/unraid-templates/my-gotify-send.xml...Success
 Processing /tmp/GitHub/repositoryClone/waazaa-fr/unraid-templates/my-turing-smart-screen.xml...Success
 Processing /tmp/GitHub/repositoryClone/waazaa-fr/unraid-templates/my-syncthing-daily-reports.xml...Success
-Processing /tmp/GitHub/repositoryClone/waazaa-fr/unraid-templates/my-release-feeds-to-discord.xml...Removed from CA
+Processing /tmp/GitHub/repositoryClone/waazaa-fr/unraid-templates/my-release-feeds-to-discord.xml...Success
 
 
 Downloading gxs' Repository
@@ -15994,6 +15994,7 @@ Array
             [1] => /tmp/GitHub/repositoryClone/Eurotimmy/unraid-templates/Odoo17/odoo17.xml
             [2] => /tmp/GitHub/repositoryClone/Eurotimmy/unraid-templates/RxV4/RxV4.xml
             [3] => /tmp/GitHub/repositoryClone/Eurotimmy/unraid-templates/ca_profile.xml
+            [4] => /tmp/GitHub/repositoryClone/Eurotimmy/unraid-templates/markets-open/markets-open.xml
         )
 
 )
@@ -16003,7 +16004,7 @@ Processing /tmp/GitHub/repositoryClone/Eurotimmy/unraid-templates/RomM/RomM.xml.
 Processing /tmp/GitHub/repositoryClone/Eurotimmy/unraid-templates/Odoo17/odoo17.xml...Success
 Processing /tmp/GitHub/repositoryClone/Eurotimmy/unraid-templates/RxV4/RxV4.xml...Success
 Processing /tmp/GitHub/repositoryClone/Eurotimmy/unraid-templates/ca_profile.xml...FOUND PROFILE
-
+Processing /tmp/GitHub/repositoryClone/Eurotimmy/unraid-templates/markets-open/markets-open.xml...
 
 Downloading Mirano's Repository
 
@@ -16686,6 +16687,8 @@ Updating stats on containers
  Downloading https://ca.unraid.net/stats/https://raw.githubusercontent.com/Commifreak/unraid-appdata.backup/master/appdata.backup.beta.plg attempt 1...
  Downloading https://ca.unraid.net/stats/https://raw.githubusercontent.com/Commifreak/unraid-appdata.backup/master/appdata.backup.plg attempt 1...
  Downloading https://ca.unraid.net/stats/https://raw.githubusercontent.com/Commifreak/ca.backup2/master/ca.backup2.plg attempt 1...
+postgrest/postgrest
+postgrest/postgrest:latest Downloads: 39518604  Stars: 92  Base: unknown
  Downloading https://ca.unraid.net/stats/https://github.com/giganode/unraid-i915-sriov/raw/master/i915-sriov.plg attempt 1...
  Downloading https://ca.unraid.net/stats/https://raw.githubusercontent.com/giganode/unraid-mqtt-pub-sub/master/mqtt-pub-sub.plg attempt 1...
  Downloading https://ca.unraid.net/stats/https://raw.githubusercontent.com/giganode/corsairpsu-unraid/master/corsairpsu.plg attempt 1...
