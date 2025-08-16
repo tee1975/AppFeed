@@ -208,11 +208,11 @@
         "version": "2025.02.14"
     },
     "https://raw.githubusercontent.com/dkaser/unraid-fileactivity/main/plugin/file.activity.plg": {
-        "version": "2025.08.02",
+        "version": "2025.08.15",
         "min": "7.0.0"
     },
     "EDACerton's Repositoryhttps://raw.githubusercontent.com/dkaser/unraid-fileactivity/main/plugin/file.activity.plg": {
-        "version": "2025.08.02",
+        "version": "2025.08.15",
         "min": "7.0.0"
     },
     "https://raw.githubusercontent.com/dkaser/unraid-ddrescue/main/plugin/ddrescue.plg": {
@@ -262,19 +262,19 @@
         "min": "6.12.0"
     },
     "https://raw.githubusercontent.com/dkaser/unraid-openfiles/main/plugin/open.files.plg": {
-        "version": "2025.08.02",
+        "version": "2025.08.15",
         "min": "7.0.0"
     },
     "EDACerton's Repositoryhttps://raw.githubusercontent.com/dkaser/unraid-openfiles/main/plugin/open.files.plg": {
-        "version": "2025.08.02",
+        "version": "2025.08.15",
         "min": "7.0.0"
     },
     "https://raw.githubusercontent.com/dkaser/unraid-enhancedlog/main/plugin/enhanced.log.plg": {
-        "version": "2025.08.02",
+        "version": "2025.08.15",
         "min": "7.0.0"
     },
     "EDACerton's Repositoryhttps://raw.githubusercontent.com/dkaser/unraid-enhancedlog/main/plugin/enhanced.log.plg": {
-        "version": "2025.08.02",
+        "version": "2025.08.15",
         "min": "7.0.0"
     },
     "https://raw.githubusercontent.com/dkaser/unraid-motd/main/plugin/motd.plg": {
@@ -450,11 +450,11 @@
         "min": "6.11.0"
     },
     "https://stable.dl.unraid.net/unraid-api/dynamix.unraid.net.plg": {
-        "version": "2025.07.30.2047",
+        "version": "2025.08.15.1649",
         "min": "6.9.0-rc1"
     },
     "Official Unraid Repositoryhttps://stable.dl.unraid.net/unraid-api/dynamix.unraid.net.plg": {
-        "version": "2025.07.30.2047",
+        "version": "2025.08.15.1649",
         "min": "6.9.0-rc1"
     },
     "https://raw.githubusercontent.com/Squidly271/unraid-theme-engine/master/plugins/theme.engine.plg": {
@@ -671,11 +671,13 @@
     },
     "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.date.time.plg": {
         "version": "2023.10.28",
-        "min": "6.9.0"
+        "min": "6.9.0",
+        "max": "7.1.9"
     },
     "Dynamix Repositoryhttps://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.date.time.plg": {
         "version": "2023.10.28",
-        "min": "6.9.0"
+        "min": "6.9.0",
+        "max": "7.1.9"
     },
     "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.safe.mode.plg": {
         "version": "2023.06.29",
@@ -1030,10 +1032,10 @@
         "version": "2022.08.25"
     },
     "https://raw.githubusercontent.com/olehj/disklocation/devel/disklocation-devel.plg": {
-        "version": "2025.08.13-0100"
+        "version": "2025.08.15-1655"
     },
     "FlamongOle's Repositoryhttps://raw.githubusercontent.com/olehj/disklocation/devel/disklocation-devel.plg": {
-        "version": "2025.08.13-0100"
+        "version": "2025.08.15-1655"
     },
     "https://raw.githubusercontent.com/olehj/disklocation/master/disklocation-master.plg": {
         "version": "2025.06.03",
